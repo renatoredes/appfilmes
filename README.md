@@ -12,7 +12,7 @@ Técnicas avançadas em Angular 8
 #Paginação 
 #Filtros
 #Rest
-#MuitoMais
+#Parametrização 
 
 ## Instalação
 
