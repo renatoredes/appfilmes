@@ -5,6 +5,14 @@ Técnicas avançadas em Angular 8
 
 ![Product Gif](https://media3.giphy.com/media/If1RjmmSHxT9yPI6rU/giphy.gif)
 
+#Angular Material
+#Json Server
+#NGX-Infinite-Scroll
+#RxJS
+#Paginação 
+#Filtros
+#Rest
+#MuitoMais
 
 ## Instalação
 
