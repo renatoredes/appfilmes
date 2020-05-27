@@ -3,7 +3,7 @@ Técnicas avançadas em Angular 8
 
 # [Técnicas avançadas em Angular 8](https://#/)
 
-![Product Gif](https://media.giphy.com/media/KxtWWjCmTvGh6Zl7cJ/giphy.gif)
+![Product Gif](https://media3.giphy.com/media/If1RjmmSHxT9yPI6rU/giphy.gif)
 
 
 ## Instalação
