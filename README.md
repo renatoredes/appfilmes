@@ -35,5 +35,14 @@ Execute `ng generate component nome-do-componente` para criar um novo componente
 
 Execute `ng build` para gerar o compilado do projeto. O projeto vai ser criado dentro do diretório `dist/`. Adicionar `--prod` junto comando de build para gerar minificado e pronto para o ambiente de produção.
 
-##### Social Media
-Linkdin:<https://www.linkedin.com/in/renatoredes/> 
+## License
+MIT © [Renato Ferreira](https://github.com/renatoredes)<br />
+
+## 👨👩 Social [🔝](#welcome-badges-4-readmemd-profile)
+
+Badge | URL
+------------ | -------------
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> | [Renato](https://www.linkedin.com/in/renatoredes/)<br />
+
+
+
